@@ -1,0 +1,7 @@
+blinker==1.6.2
+click==8.1.6
+Flask==2.3.2
+heroku==0.1.4
+itsdangerous==2.1.2
+python-dateutil==1.5
+Werkzeug==2.3.7
